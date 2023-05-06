@@ -4,18 +4,18 @@
 
   ## Motivasyon
   
-    **Bu projeyi kendimi geliştirmek amacıyla yapıyorum.
+   **Bu projeyi kendimi geliştirmek amacıyla yapıyorum.**
     
   
   ## Özellikler
   
-    **1- C# dili ve SQL veritabanı kullanılmıştır.
-    **2- Rehber bölümünde mail, telefon ve kişi bilgilerini tutulacak.
-    **3- Yeni kişi ekleme, kişi silme, var olan kişinin bilgilerini değiştirme, güncelleme yapılabilecek.
-    **4- Varolan kaydı temizleyebilecek.
+   **1- C# dili ve SQL veritabanı kullanılmıştır.**<br/>
+   **2- Rehber bölümünde mail, telefon ve kişi bilgilerini tutulacak.**<br/>
+   **3- Yeni kişi ekleme, kişi silme, var olan kişinin bilgilerini değiştirme, güncelleme yapılabilecek.**<br/>
+   **4- Varolan kaydı temizleyebilecek.**<br/>
     
   ## Tablolar
 
 ![image](https://user-images.githubusercontent.com/75333997/236642315-65793f1e-124b-4647-bbea-c635ab3330d9.png)
 
-    *İhtiyaç doğrultusunda var olacak tablolar sonradan projeye eklenecektir!
+   **İhtiyaç doğrultusunda var olacak tablolar sonradan projeye eklenecektir!**
