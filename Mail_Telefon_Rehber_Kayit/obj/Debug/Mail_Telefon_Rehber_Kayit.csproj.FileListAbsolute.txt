@@ -1,0 +1,10 @@
+C:\Users\ersin\source\repos\Mail_Telefon_Rehber_Kayit\bin\Debug\Mail_Telefon_Rehber_Kayit.exe.config
+C:\Users\ersin\source\repos\Mail_Telefon_Rehber_Kayit\bin\Debug\Mail_Telefon_Rehber_Kayit.exe
+C:\Users\ersin\source\repos\Mail_Telefon_Rehber_Kayit\bin\Debug\Mail_Telefon_Rehber_Kayit.pdb
+C:\Users\ersin\source\repos\Mail_Telefon_Rehber_Kayit\obj\Debug\Mail_Telefon_Rehber_Kayit.csproj.AssemblyReference.cache
+C:\Users\ersin\source\repos\Mail_Telefon_Rehber_Kayit\obj\Debug\Mail_Telefon_Rehber_Kayit.Form1.resources
+C:\Users\ersin\source\repos\Mail_Telefon_Rehber_Kayit\obj\Debug\Mail_Telefon_Rehber_Kayit.Properties.Resources.resources
+C:\Users\ersin\source\repos\Mail_Telefon_Rehber_Kayit\obj\Debug\Mail_Telefon_Rehber_Kayit.csproj.GenerateResource.cache
+C:\Users\ersin\source\repos\Mail_Telefon_Rehber_Kayit\obj\Debug\Mail_Telefon_Rehber_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Mail_Telefon_Rehber_Kayit\obj\Debug\Mail_Telefon_Rehber_Kayit.exe
+C:\Users\ersin\source\repos\Mail_Telefon_Rehber_Kayit\obj\Debug\Mail_Telefon_Rehber_Kayit.pdb
